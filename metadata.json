@@ -1,0 +1,8 @@
+{
+  "name": "BK Academy - Bangladesh Homework Solver",
+  "description": "An AI-powered academic assistant for Bangladeshi students covering NCTB curriculum from Class 1 to University.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
